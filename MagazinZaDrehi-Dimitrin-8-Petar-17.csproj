@@ -55,7 +55,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Controller\Products-Controller.cs" />
+    <Compile Include="Controller\ProductsController.cs" />
     <Compile Include="Controller\ProductTypes-Controller.cs" />
     <Compile Include="Migrations\202306020726467_initial-migration.cs" />
     <Compile Include="Migrations\202306020726467_initial-migration.designer.cs">
